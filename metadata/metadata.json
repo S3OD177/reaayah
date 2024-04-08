@@ -1,0 +1,38 @@
+{
+    "title": "صمم بطاقة التهنئة الخاصة بك في أقل من دقيقة",
+    "cards": [
+        {
+            "id": 1,
+            "title":" ",
+            "imgLink": "https://saud.imgix.net/cardsImg/bg1-2.jpg", 
+            "x": null,
+            "y": 3000,
+            "width": null,
+            "height": null,
+            "txtSize": 150,
+            "occasion": "عيد الأضحى"
+        },
+        {
+            "id": 2,
+            "title":" ",
+            "imgLink": "https://saud.imgix.net/cardsImg/eidf1.jpeg", 
+            "x": null,
+            "y": 950,
+            "width": null,
+            "height": null,
+            "txtSize": 60,
+            "occasion": "عيد الفطر"
+        },
+        {
+            "id": 3,
+            "title":" ",
+            "imgLink": "https://saud.imgix.net/cardsImg/ram1.jpeg", 
+            "x": null,
+            "y": 950,
+            "width": null,
+            "height": null,
+            "txtSize": 55,
+            "occasion": "رمضان"
+        }
+    ]
+}
