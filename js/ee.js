@@ -22,13 +22,11 @@ function showOccasion() {
     // Give the user occasion
     // the options are Ramadan, Eid al-Fitr , and Eid al-Adha
     document.getElementById('modal-body').innerHTML = `
-    <div id="0" class="card" data-img-link="https://iee.imgix.net/bg1-2.jpg" data-title="رمضان">
-        <a href="#" onclick="selectOccasion(1)" style="color: inherit; text-decoration: none;">
-            <div class="card-body d-flex flex-column align-items-center">
-                <h5 class="card-title mt-3">رمضان</h5>
-            </div>
-        </a>
+    <div id="1" class="card" data-img-link="https://iee.imgix.net/bg2-2.jpg" data-title="رمضان" style="opacity: 0.6; pointer-events: none;">
+    <div class="card-body d-flex flex-column align-items-center">
+        <h5 class="card-title mt-3">رمضان</h5>
     </div>
+</div>
     <br>
     <div id="1" class="card" data-img-link="https://iee.imgix.net/bg2-2.jpg" data-title="عيد الفطر">
         <a href="#" onclick="selectOccasion(2)" style="color: inherit; text-decoration: none;">
@@ -38,11 +36,10 @@ function showOccasion() {
         </a>
     </div>
     <br>
-    <div id="2" class="card" data-img-link="https://iee.imgix.net/bg3-2.jpg" data-title="عيد الأضحى">
-        <a href="#" onclick="selectOccasion(3)" style="color: inherit; text-decoration: none;">
-            <div class="card-body d-flex flex-column align-items-center">
-                <h5 class="card-title mt-3">عيد الأضحى</h5>
-            </div>
+    <div id="1" class="card" data-img-link="https://iee.imgix.net/bg2-2.jpg" data-title="عيد الأضحى" style="opacity: 0.6; pointer-events: none;">
+    <div class="card-body d-flex flex-column align-items-center">
+        <h5 class="card-title mt-3">عيد الأضحى</h5>
+    </div>
         </a>
     </div>
     <br>
